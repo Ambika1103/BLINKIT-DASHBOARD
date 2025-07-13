@@ -19,4 +19,21 @@ This repository contains an interactive Power BI dashboard for **Blinkit**, a qu
 - Average Sales
 - Average Rating
 
-  ## 📷 Dashboard Preview 
+  ## 📷 Dashboard Preview
+   https://github.com/Ambika1103/BLINKIT-DASHBOARD/blob/main/Screenshot%20of%20dashboard.png
+
+  ## 🚀 Getting Started
+1. Clone this repository.
+2. Open the `.pbix` file in Power BI Desktop.
+3. Refresh the dataset (if required).
+4. Interact with the dashboard filters to explore insights.
+
+## 🌟 Purpose
+This project is a part of my data analytics learning journey. It showcases my ability to:
+- Clean and transform raw data
+- Build intuitive visual reports
+- Extract business insights for data-driven decisions
+## 👨‍💻 Author
+**Ambika Singh** 
+----
+> If you liked this project, don't forget to give it a star!
